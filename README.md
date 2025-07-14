@@ -1,4 +1,4 @@
-#Hello!
+Hello!
 
 
 My name is Mariyah Vega an aspiring Art Director currently attending Arizona State University. While majoring in Graphic Information Technology, I aim to advance my skills in web developement, design, and print. After graduation I plan on working in graphic design or a related field. I am relatively new to coding, but so far I enjoy the organization and watching how my edits affect the HTML in real time. My hobbies include Drawing, painting, digital artworks, and illistration.
